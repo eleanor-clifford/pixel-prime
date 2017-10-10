@@ -47,7 +47,7 @@ See the Primes folder for examples of primes that have been found with this prog
 
 ## Acknowledgements
 
-
+Thanks to Jack Hodkinson at the University of Cambridge for the idea- from his blog post about the "Corpus Christi Prime" - https://friendlyfieldsandopenmaps.com/2017/09/08/the-corpus-christi-prime/
 
 ## License
 
