@@ -51,5 +51,5 @@ Thanks to Jack Hodkinson at the University of Cambridge for the idea- from his b
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the BSD 2-clause License - see the [LICENSE.md](LICENSE.md) file for details
 
