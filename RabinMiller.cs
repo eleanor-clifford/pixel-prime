@@ -38,6 +38,7 @@ static class RabinMiller
 
 			}
 			if (x != n - 1) return false;
+			//Console.WriteLine("Iteration {0}: True",i);
 		} 
 		return true;
 	}

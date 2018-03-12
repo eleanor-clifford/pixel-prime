@@ -15,9 +15,8 @@ except FileNotFoundError:
 b = b[len(b)-(WIDTH*HEIGHT):]
 new = []
 for i in b:
-    float = i * (10/max(b))
-    if float < 0.5: new.append(ORDER[0])
-    else: new.append(ORDER[round(float)-1])
+    linear = int((i * 10)/256)
+    new.append(ORDER[linear])
 output = 0
 for i,digit in enumerate(new[::-1]):
     output += digit*(10**i)
