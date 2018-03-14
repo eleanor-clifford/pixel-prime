@@ -1,9 +1,9 @@
 #!/bin/env python3
 WIDTH = int(input("File width? "))
 HEIGHT = int(input("Picture Height? "))
-#WIDTH, HEIGHT = 126,71
+#WIDTH, HEIGHT = 87,61
 outputFile = open("perfectNumber.txt","w")
-ORDER = [0,8,6,9,4,5,2,3,1,7]
+ORDER = [0,8,6,4,3,2,1,7]
 # I calculated (in pixels per 160, in the order above, for Menlo) 81,79,73,67,65,64,63,60,53,49
 try:
     with open("input.pgm", "rb") as imageFile:
@@ -15,7 +15,7 @@ except FileNotFoundError:
 b = b[len(b)-(WIDTH*HEIGHT):]
 new = []
 for i in b:
-    linear = int((i * 10)/256)
+    linear = int((i * 8)/256)
     new.append(ORDER[linear])
 output = 0
 for i,digit in enumerate(new[::-1]):

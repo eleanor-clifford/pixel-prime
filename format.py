@@ -1,7 +1,8 @@
 inputFile = open("possiblePrimes.txt","r")
 outputFile = open("output.txt","w")
-WIDTH = int(input("Image width? "))
-HEIGHT = int(input("Image height? "))
+WIDTH = int(input("File width? "))
+HEIGHT = int(input("Picture Height? "))
+#WIDTH, HEIGHT = 87,61
 for prime in inputFile.readlines():
 	for row in range(HEIGHT):
 		for column in range(WIDTH):
