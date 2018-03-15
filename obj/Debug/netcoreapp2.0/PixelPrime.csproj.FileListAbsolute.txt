@@ -1,0 +1,30 @@
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.deps.json
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.runtimeconfig.json
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.runtimeconfig.dev.json
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.dll
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.pdb
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.csproj.CoreCompileInputs.cache
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.AssemblyInfoInputs.cache
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.AssemblyInfo.cs
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.dll
+C:\Users\Anson Wong\Desktop\things\SChool\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.pdb
+D:\SCHool_old\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.deps.json
+D:\SCHool_old\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.runtimeconfig.json
+D:\SCHool_old\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.runtimeconfig.dev.json
+D:\SCHool_old\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.dll
+D:\SCHool_old\Ellie's prime\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.pdb
+D:\SCHool_old\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.csproj.CoreCompileInputs.cache
+D:\SCHool_old\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.AssemblyInfoInputs.cache
+D:\SCHool_old\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.AssemblyInfo.cs
+D:\SCHool_old\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.dll
+D:\SCHool_old\Ellie's prime\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.pdb
+D:\SCHool_old\Ellie's prime\small\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.deps.json
+D:\SCHool_old\Ellie's prime\small\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.runtimeconfig.json
+D:\SCHool_old\Ellie's prime\small\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.runtimeconfig.dev.json
+D:\SCHool_old\Ellie's prime\small\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.dll
+D:\SCHool_old\Ellie's prime\small\pixel-prime\bin\Debug\netcoreapp2.0\PixelPrime.pdb
+D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.csproj.CoreCompileInputs.cache
+D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.AssemblyInfoInputs.cache
+D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.AssemblyInfo.cs
+D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.dll
+D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Debug\netcoreapp2.0\PixelPrime.pdb
