@@ -18,3 +18,13 @@ D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Release\netcoreapp2.0\PixelPri
 D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.AssemblyInfo.cs
 D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.dll
 D:\SCHool_old\Ellie's prime\small\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.pdb
+C:\Users\timmy\Projects\finished\pixel-prime\bin\Release\netcoreapp2.0\PixelPrime.deps.json
+C:\Users\timmy\Projects\finished\pixel-prime\bin\Release\netcoreapp2.0\PixelPrime.runtimeconfig.json
+C:\Users\timmy\Projects\finished\pixel-prime\bin\Release\netcoreapp2.0\PixelPrime.runtimeconfig.dev.json
+C:\Users\timmy\Projects\finished\pixel-prime\bin\Release\netcoreapp2.0\PixelPrime.dll
+C:\Users\timmy\Projects\finished\pixel-prime\bin\Release\netcoreapp2.0\PixelPrime.pdb
+C:\Users\timmy\Projects\finished\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.csproj.CoreCompileInputs.cache
+C:\Users\timmy\Projects\finished\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.AssemblyInfoInputs.cache
+C:\Users\timmy\Projects\finished\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.AssemblyInfo.cs
+C:\Users\timmy\Projects\finished\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.dll
+C:\Users\timmy\Projects\finished\pixel-prime\obj\Release\netcoreapp2.0\PixelPrime.pdb
