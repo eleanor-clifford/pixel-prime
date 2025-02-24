@@ -1,3 +1,9 @@
+
+
+| :exclamation:  | This is a mirror of [https://git.sr.ht/~eleanor-clifford/pixel-prime](https://git.sr.ht/~eleanor-clifford/pixel-prime). Please refrain from using GitHub's issue and PR system.  |
+|----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 # Pixel Prime
 Attempts to turn a photo into a prime number that looks a lot like the photo
 
